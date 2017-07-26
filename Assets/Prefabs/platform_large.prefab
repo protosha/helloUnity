@@ -36,7 +36,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4525282360045254}
   - component: {fileID: 61135298512200210}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platform_large
   m_TagString: ground
   m_Icon: {fileID: 0}
